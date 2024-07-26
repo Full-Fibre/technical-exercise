@@ -2,7 +2,8 @@
 
 **Please don't spend more than an hour on this technical assessment**
 
-* This repository contains two `.csv` files containing synthetic data related to car sales. The data is stored in `data-in/` 
+* This repository contains two `.csv` files containing synthetic data related to car sales. 
+  * The data is stored in `data-in/` 
 * One `.csv` contains vehicle data and one `.csv` contains purchase data
 * Please use the data to provide answers to the following questions:
 
