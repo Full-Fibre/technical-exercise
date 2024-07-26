@@ -1,5 +1,7 @@
 # Full Fibre technical exercise 
 
+**Please don't spend more than an hour on this technical assessment**
+
 * This repository contains two `.csv` files relating to car sales stored in `data-in/` 
 * One `.csv` contains vehicle data and one `.csv` contains purchase data
 * Please use the data to provide answers to the following questions:
